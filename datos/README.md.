@@ -1,0 +1,8 @@
+# Fuentes de datos | Superstore
+
+Esta carpeta contiene los cuatro archivos CSV utilizados para el análisis de rendimiento y marketing.
+
+- Orders.csv
+- Returns.csv
+- Customers.csv
+- Marketing.csv
