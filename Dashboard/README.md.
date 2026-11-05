@@ -1,0 +1,51 @@
+# Dashboard de Rendimiento y Marketing | Superstore
+
+## Descripción
+
+Dashboard interactivo desarrollado en **Looker Studio** para analizar el rendimiento comercial y de marketing de Superstore. Permite visualizar las ventas, ganancias, pedidos, comportamiento de los clientes, devoluciones, rentabilidad de productos e inversión en marketing
+
+## Objetivo
+
+Transformar los datos comerciales y de marketing en información visual que facilite la identificación de tendencias, la comparación de resultados y la toma de decisiones de negocio
+
+## Herramientas utilizadas
+
+- **Looker Studio:** creación del dashboard y visualización de indicadores
+- **CSV:** fuentes de datos para alimentar las visualizaciones
+- **Preparación de datos:** organización de las fuentes de información para su análisis
+
+## Indicadores y análisis
+
+- **Rendimiento general:** ventas, ganancias, pedidos y clientes
+- **Marketing:** inversión, campañas, canales y retorno de inversión (ROI)
+- **Devoluciones:** cantidad de pedidos devueltos y principales motivos
+- **Productos:** rentabilidad, ventas por subcategoría y categoría
+- **Clientes:** distribución por industria, género y ubicación geográfica
+
+## Visualizaciones
+
+El dashboard incluye visualizaciones para:
+
+1. Evolución mensual de ventas
+2. Ventas por segmento y región
+3. Relación entre inversión en marketing y ventas
+4. Análisis de devoluciones y motivos
+5. Rentabilidad y desempeño de productos
+6. Distribución y comportamiento de clientes
+
+## Acceso al dashboard
+
+**Enlace:** https://datastudio.google.com/s/k6A9d15UJXY
+
+> Nota: el acceso dependerá de los permisos de visualización configurados en Looker Studio
+
+## Fuentes de datos
+
+Los datos utilizados provienen de cuatro archivos CSV:
+
+- Orders
+- Returns
+- Customers
+- Marketing
+
+Consulta la carpeta **datos/** del repositorio para acceder a las fuentes de información utilizadas en el análisis
